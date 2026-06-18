@@ -1,0 +1,37 @@
+{
+  "name": "Infinite Canvas",
+  "short_name": "Canvas",
+  "description": "Premium infinite whiteboard with ultra-smooth inking and AI-powered problem solving",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
